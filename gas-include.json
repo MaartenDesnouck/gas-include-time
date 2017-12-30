@@ -1,6 +1,6 @@
 {
   "name": "time",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A time conversion library for Gas",
   "repository": {
       "type": "git",
@@ -23,7 +23,7 @@
   "author": "Maarten Desnouck (maarten.desnouck@gmail.com)",
   "license": "MIT",
   "bugs": {
-      "url": "https://github.com/maartendesnouck/google-apps-script/issues"
+      "url": "https://github.com/maartendesnouck/gas-include-time/issues"
   },
   "homepage": "https://github.com/maartendesnouck/gas-include-time#readme",
   "dependencies": {}
