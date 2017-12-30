@@ -1,0 +1,30 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "A time conversion library for Gas",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/maartendesnouck/gas-include-time.git"
+  },
+  "keywords": [
+      "google-apps-script",
+      "googleappsscript",
+      "gas",
+      "export",
+      "import",
+      "download",
+      "upload",
+      "Google",
+      "apps",
+      "script",
+      "CLI",
+      "drive"
+  ],
+  "author": "Maarten Desnouck (maarten.desnouck@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/maartendesnouck/google-apps-script/issues"
+  },
+  "homepage": "https://github.com/maartendesnouck/gas-include-time#readme",
+  "dependencies": {}
+}
