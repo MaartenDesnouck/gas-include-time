@@ -16,17 +16,17 @@ Number of complete days between two dates
 time_dayDiff(StartDate, EndDate);
 ```
 
- * Number of complete hours between two dates
- ```
+Number of complete hours between two dates
+```
 time_hourDiff(StartDate, EndDate);
 ```
 
- * Number of complete minutes between two dates
- ```
+Number of complete minutes between two dates
+```
 time_minuteDiff(StartDate, EndDate);
 ```
 
- * Number of complete seconds between two dates
+Number of complete seconds between two dates
 ```
 time_secondDiff(StartDate, EndDate);
 ```
